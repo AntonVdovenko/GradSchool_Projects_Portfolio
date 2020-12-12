@@ -12,4 +12,4 @@ My interest lies in the field of Data Science/AI. If you think I will be a good 
 
 | № | Project | Description | Instruments |
 | :- | :--------------------- | :---------------------------| :---------------------------|
-| [1][id1]  | [IBM Capstone][id1] | Museums and Hotels in Sankt-Petersburg Density Analysis | Python, pandas, k-means|
+| [1][id1]  | [IBM Capstone][id1] | Museums and Hotels in Sankt-Petersburg Density Analysis | Python, pandas, scikit-learn|
