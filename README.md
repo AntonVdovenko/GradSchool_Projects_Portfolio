@@ -9,7 +9,9 @@ I am a quick-witted, fast learner, with an intense thirst for knowledge and stri
 My interest lies in the field of Data Science/AI. If you think I will be a good fit for your company, feel free to contact me. 
 
 [id1]: https://github.com/AntonVdovenko/Portfolio/tree/master/IBM%20Capstone
+[id2]: https://github.com/AntonVdovenko/Portfolio/tree/master/Titanic%20competition
 
-| № | Project | Description | Instruments |
-| :- | :--------------------- | :---------------------------| :---------------------------|
-| [1][id1]  | [IBM Capstone][id1] | Museums and Hotels in Sankt-Petersburg Density Analysis | Python, pandas, scikit-learn|
+| № | Project | Description | Programming Language| Instruments |
+| :- | :--------------------- | :---------------------------| :---------------------------| :---------------------------|
+| [1][id1]  | [IBM Capstone][id1] | Museums and Hotels in Sankt-Petersburg Density Analysis | Python|pandas, sklearn|
+| [2][id2]  | [Titanic Competition Kaggle][id2] | Binary classification problem. Top 10% solution of leaderboard. | Python|pandas, numpy, sklearn, xgboost, lightgbm|
