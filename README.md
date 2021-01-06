@@ -13,5 +13,5 @@ My interest lies in the field of Data Science/AI. If you think I will be a good 
 
 | № | Project | Description | Programming Language| Instruments |
 | :- | :--------------------- | :---------------------------| :---------------------------| :---------------------------|
-| [1][id1]  | [IBM Capstone][id1] | Museums and Hotels in Sankt-Petersburg Density Analysis | Python|pandas, sklearn|
-| [2][id2]  | [Titanic Competition Kaggle][id2] | Binary classification problem. Top 10% solution of leaderboard. | Python|pandas, numpy, sklearn, xgboost, lightgbm|
+| [1][id1]  | [IBM Capstone][id1] | Museums and Hotels in Sankt-Petersburg Density Analysis | Python|pandas, matplotlib, sklearn|
+| [2][id2]  | [Titanic Competition Kaggle][id2] | Binary classification problem. Top 10% solution of leaderboard. | Python|pandas, matplotlib, seaborn, numpy, sklearn, xgboost, lightgbm|
