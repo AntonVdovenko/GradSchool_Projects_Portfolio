@@ -21,3 +21,5 @@ After oversampling: Counter({0: 7215, 2: 7215, 4: 7215, 3: 7215, 5: 7215, 1: 721
 
 ## Conclusion 
 The top solution on Kaggle is 70% but with one more emotion class, here we have modified data, but still results are promising 80% - accuracy on test data.
+## P.S
+Link for downloading data and models: https://drive.google.com/drive/folders/1jO-1vWnHj5yLd3P39Zu1o00GLP_nrdtc?usp=sharing
