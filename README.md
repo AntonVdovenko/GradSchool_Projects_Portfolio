@@ -4,7 +4,7 @@
 [id1]: https://github.com/AntonVdovenko/Portfolio/tree/master/IBM%20Capstone
 [id2]: https://github.com/AntonVdovenko/Portfolio/tree/master/Titanic%20competition
 [id3]: https://github.com/AntonVdovenko/Portfolio/tree/master/Facial%20expressions
-[id4]: https://github.com/AntonVdovenko/Portfolio/tree/master/Movie%20financial%success%20predictions
+[id4]: https://github.com/AntonVdovenko/Portfolio/tree/master/Movie%20financial%20success%20predictions
 
 | № | Project | Description | Programming Language| Instruments |
 | :- | :--------------------- | :---------------------------| :---------------------------| :---------------------------|
