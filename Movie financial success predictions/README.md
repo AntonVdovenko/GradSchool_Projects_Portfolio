@@ -5,7 +5,7 @@ The hypothesis is that movie revenues are closely associated only with a handful
 ## Objective
 The objective is to come up with a model that could help movie producers and investors better arrive at informative investment decisions.
 ## Data
-Four datasets would be used: 
+Four datasets were used: 
 
 - TMDB 45k Movie Dataset. The data set was obtained from Kaggle  and contain metadata for all 45,000 movies listed in the Full MovieLens Dataset. The dataset consists of movies released on or before July 2017. Data points include cast, crew, plot keywords, budget, revenue, posters, release dates, languages, production companies, countries, TMDB vote counts and vote averages. This dataset would be  primary source for revenue prediction.
 - Google Trends Data. Audience’s researching activities on the movies are monitored via PyTrends API.  This data is scraped based on the movie title 150 days before the movie release to movie release day by using PyTrends API. The average of these 150 days index is used as one input for the analysis.
