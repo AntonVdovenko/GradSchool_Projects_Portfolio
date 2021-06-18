@@ -6,6 +6,7 @@
 [id3]: https://github.com/AntonVdovenko/Portfolio/tree/master/Facial%20expressions
 [id4]: https://github.com/AntonVdovenko/Portfolio/tree/master/Movie%20financial%20success%20predictions
 [id5]: https://github.com/AntonVdovenko/Portfolio/tree/master/Fine%20and%20Coarse%20recognition
+[id6]: https://github.com/AntonVdovenko/Portfolio/tree/master/X_Ray_Covid
 
 | № | Project | Description | Programming Language| Instruments |
 | :- | :--------------------- | :---------------------------| :---------------------------| :---------------------------|
@@ -14,3 +15,4 @@
 | [3][id3]  | [Facial expressions][id3] | Emotions classification problem. CNN solution. | Python|pandas, matplotlib, numpy, sklearn, tensorflow, Keras|
 | [4][id4]  | [Movie financial success prediction before production][id4] | Model exploration to predict financial success of movie before its production. | Python|pandas, matplotlib, numpy, sklearn, xgboost, lightgbm|
 | [5][id5]  | [Fine and Coarse recognition][id5] | CNN with "chain" like architecure to get both fine and coarse recognition on buildings and food. 85% top_1 and 95% top_5 accuracy. | Python|pandas, matplotlib, numpy, sklearn, xgboost, tensorflow, Keras|
+| [6][id6]  | [X-Ray COVID Classifier][id6] | Retrained MobileNetV2 model - 97% test accuracy | Python|pandas, matplotlib, numpy, tensorflow, Keras|
