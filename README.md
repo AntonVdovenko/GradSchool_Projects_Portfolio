@@ -6,7 +6,7 @@
 [id3]: https://github.com/AntonVdovenko/Portfolio/tree/master/Facial%20expressions
 [id4]: https://github.com/AntonVdovenko/Portfolio/tree/master/Movie%20financial%20success%20predictions
 [id5]: https://github.com/AntonVdovenko/Portfolio/tree/master/Fine%20and%20Coarse%20recognition
-[id6]: https://github.com/AntonVdovenko/Portfolio/tree/master/X_Ray_Covid
+[id6]: https://github.com/AntonVdovenko/Portfolio/tree/master/X_Ray_Covid_Explainability
 
 | № | Project | Description | Programming Language| Instruments | Year |
 | :- | :--------------------- | :---------------------------| :---------------------------| :---------------------------|:---------------------------|
